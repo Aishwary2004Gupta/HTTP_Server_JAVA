@@ -53,7 +53,6 @@ public class HTTP_Request extends HTTP_Message {
         this.requestTarget = requestTarget;
     }
     //RFC7230
-
     //setter for the best compatible http version
 
     void setHttpVersion(String originalHttpVersion) throws BadHTTPVersionException, HTTP_ParsingException {
