@@ -39,6 +39,5 @@ public class HTTP_VersionTest {
         } catch (BadHTTPVersionException e) {
             fail();
         }
-
     }
 }
