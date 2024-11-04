@@ -78,6 +78,7 @@ public class HTTP_Parser {
             }
 
             if (_byte == SP){
+            
 //Process Previous data
                 if (!methodParsed){ // if method not parsed
                     LOGGER.debug("Requesting Line Method To Process : {}", processingDataBuffer.toString());
