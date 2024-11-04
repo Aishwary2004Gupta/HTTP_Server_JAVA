@@ -19,7 +19,6 @@ public class HTTP_Request extends HTTP_Message {
     }
 
     // Getter fo requestTarget
-
     public String getRequestTarget() {
         return requestTarget;
     }
