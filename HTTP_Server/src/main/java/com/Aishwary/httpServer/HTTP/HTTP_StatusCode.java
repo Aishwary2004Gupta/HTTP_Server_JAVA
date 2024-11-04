@@ -21,5 +21,4 @@ public enum HTTP_StatusCode {
         this.STATUS_CODE = STATUS_CODE;
         this.MESSAGE = MESSAGE;
     }
-
 }
