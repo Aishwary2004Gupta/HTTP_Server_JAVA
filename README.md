@@ -1,6 +1,6 @@
 # HTTP_Server_JAVA
 
-A simple HTTP server implementation in Java. This project is designed to help you understand the basics of building an HTTP server from scratch. While the code is in Java, the concepts can be applied to other backend languages.
+A advanced HTTP server implementation in Java. This project is designed to help you understand the basics of building an HTTP server from scratch. While the code is in Java, the concepts can be applied to other backend languages of your choice.
 
 ## Features
 
